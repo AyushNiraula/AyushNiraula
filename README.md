@@ -21,8 +21,6 @@
 ###
 <h1 align="left">Hello There ! 😁</h1>
 
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
