@@ -14,11 +14,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AyushNiraula&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AyushNiraula.AyushNiraula&left_color=blue&right_color=darksalmon"  />
-</div>
 
 ###
 <h1 align="left">Hello There ! 😁</h1>
