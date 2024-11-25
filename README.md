@@ -1,8 +1,7 @@
 <div align="left">
-<!--   <img height="150" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  /> -->
-  <img height="150" src="[https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)"
-  />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
+
 ###
 
 
@@ -26,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Ayush Niraula 👋<br>Software Engineer | Front-End Team Lead at The Big Solutions<br>Passionate about Machine Learning and AI 🤖 | MERN Stack Enthusiast<br>Currently building a mega project with MERN 🚀 and diving deep into AI/ML to create smarter solutions.</p>
+<p align="left">I'm Ayush Niraula 👋<br>Software Engineer | Front-End Team Lead at The Big Solutions<br>Passionate about Machine Learning and AI 🤖 | MERN Stack Enthusiast<br>Currently building a mega project with MERN 🚀 and diving deep into AI/ML to create smarter solutions.<br>Always learning, always building—let’s innovate together !</p>
 
 ###
 <hr>
