@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Ayush Niraula 👋<br>Software Engineer | Front-End Team Lead at The Big Solutions<br>Passionate about Machine Learning and AI 🤖 | MERN Stack Enthusiast<br>Currently building a mega project with MERN 🚀 and diving deep into AI/ML to create smarter solutions.<br>Always learning, always building—let’s innovate together !</p>
+<p align="left">I'm Ayush Niraula 👋<br>Software Engineer | Front-End Team Lead at The Big Solutions<br>Passionate about Machine Learning and AI 🤖 | MERN Stack Enthusiast<br>Currently building a mega project with MERN 🚀 and diving deep into AI/ML to create smarter solutions.</p>
 
 ###
 <hr>
